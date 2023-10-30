@@ -2,7 +2,9 @@
 
 This project includes an HTML and CSS file for creating a survey form. Users can provide feedback on services.
 
-You can access the deployed survey form by clicking the following link: [Survey Form](https://hadep275.github.io/SurveyForm/)
+## Deployed Link
+[Survey Form](https://hadep275.github.io/SurveyForm/)
+Feel free to customize the form and use it for your own survey purposes.
 
 ## HTML Structure
 
@@ -21,8 +23,3 @@ The CSS file (`styles.css`) provides styling for the form, including:
 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in a web browser to view the survey form.
-
-## Deployed Link
-
-
-Feel free to customize the form and use it for your own survey purposes.
