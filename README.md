@@ -2,7 +2,7 @@
 
 This project includes an HTML and CSS file for creating a survey form. Users can provide feedback on services.
 
-You can access the deployed survey form by clicking the following link: [Survey Form](https://crossorigin.me/https://freecodecamp.com)
+You can access the deployed survey form by clicking the following link: [Survey Form](https://hadep275.github.io/SurveyForm/)
 
 ## HTML Structure
 
